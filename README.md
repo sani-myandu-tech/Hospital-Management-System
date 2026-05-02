@@ -1,5 +1,5 @@
 # 🏥 Lifeline Hospital Management System
-### 2nd Year Project| ISTN212 Assignment | C# Windows Forms + SQL Server
+### ISTN212 Assignment | C# Windows Forms + SQL Server
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
@@ -182,7 +182,8 @@ Navigate using the sidebar labels:
 ---
 
 ## 📸 Screenshots
-Coming just now!!
+
+Adding them just now!!
 
 | Screen | Description |
 |---|---|
@@ -224,7 +225,7 @@ ORDER BY TotalAppointments DESC;
 
 **Lungisani Mnyandu**  
 ISTN212 | Information Systems  
-
+[GitHub](https://github.com/sani-mnyandu-tech)
 
 ---
 
